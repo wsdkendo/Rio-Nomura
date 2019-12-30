@@ -1,0 +1,220 @@
+body{background-image:url(image/back.png);	/*壁色と壁紙設定*/
+	background-repeat:repeat;/*繰り返さない場合はno-repeatに変更*/
+	font:"メイリオ", "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3";
+	color: #333333;
+	margin:25px;
+	padding:0px;
+}
+
+.myimage{
+	width:300px;
+}
+
+.normalimage{
+	width:480px;
+}
+
+h1{
+	  font-size:70%;
+	  letter-spacing: 2px;
+	  padding-left:10px;
+	  margin: -16px;
+}
+
+
+h2{
+      font-size:80%;
+        color:black;
+	background-image:url(image/back.png);
+	line-height: 28px;
+	  padding-left:10px;  
+}
+
+p{
+      font-size:90%;/*全体の文字サイズ*/
+	  line-height:150%;/*全体で使う、文字と文字の行間*/
+}
+
+p img{
+      float:left;
+          margin-left:0px;  /*写真の左にスペースを空ける*/
+	  margin-right:15px;  /:写真と文字の間隔*/
+}
+
+
+a{
+      text-decoration:none;
+}
+a:hover {
+	color: #FF0000;/*リンクの文字の上にマウスが来た時この色に変わる*/
+	text-decoration: none;
+}
+
+
+h1 a{
+      color:#FFFFFF;
+	  font-weight:normal;
+}
+
+
+#contents{      
+      width:853px;
+	  margin:0 auto; 
+	  background-image:url(image/main.png);/*コンテンツ内の背景(サイズをぴったりにすること）*/
+	  background-repeat:repeat-y;   /*縦に繰り返し*/
+      position:relative;
+      font-size:100%;
+}
+
+
+#header{
+      background-image:url(image/back.png); /*ヘーダー*/
+	  background-position:top right;
+	  background-repeat:repeat;
+	  height:145px; /*ヘーダーの高さ*/
+}
+
+#header p {
+	font-size: 25px;
+        color:#ffffff;
+	padding-top: 5px;
+	padding-left: 10px;
+}
+
+
+
+
+#navbar{
+      width: 100%;
+      height:40px;
+      position:absolute;
+      top:107px;
+
+      }
+
+#navbar ul{
+          margin:0;
+	  padding:0;
+	  list-style-type:none;
+	  font-family:Arial, Helvetica, sans-serif;
+	  font-size: 12px;
+	  line-height:38px;
+	  letter-spacing:2px;
+}
+
+#navbar li{
+      background-image:url(image/menu.JPG);  /*上部メニューのボタンの背景*/
+	  float:left;
+	  width:142px;  /*メニューボタンの幅*/
+	  text-align:center;
+	  padding:0;
+	  }
+#navbar ul a:hover{
+   	background-image:url(image/menuover.JPG);/*メニューボタンにカーソルが来た時に背景画像をこれにする*/
+	  width:142px;  /*メニューボタンの幅*/
+}
+      
+#navbar a{
+      color:#ffffff;/*メニューボタンの文字の色*/
+	  display:block;
+	  }
+#navbar a:hover{
+   color:#8E0036; /*メニューの文字がカーソルが来た時、この色に変わる*/
+   }
+
+
+
+
+
+
+#main{
+      width:625px;
+      margin-top:15px;
+      margin-left:235px;
+}
+
+
+
+
+
+#side{
+      width:200px;/*サイドの幅（変更するときはコンテンツ背景も変更すること）*/
+	  position:absolute;
+	  top:570px;/*上からの位置*/
+	  left:-20px;
+}
+
+#side ul{
+      font-size:100%;
+	  line-height:220%; /*サイドの文字と文字の行間設定*/
+	  margin:0px;
+	  padding-right:15px;
+}
+#side ul a:hover {
+	color: #ff0000;	/*サイドのカーソルオーバー時の文字色*/
+}
+
+#side ul{
+     list-style-type:none;
+	 padding-right:2px;
+}
+#side li{
+	 padding-right:5px;　/*文字の左端からの位置*/
+}
+#side li a{
+     color:#333333;/*サイドの文字色*/
+     border-bottom:solid 1px #666666;/*文字の下に線を入れる設定*/
+     width:190px;
+     display:block;
+}
+#side .ad_list li{
+     background-image:none;
+	 padding-right:0;
+}
+
+
+
+#slideshow {
+   position: relative;
+   width:  852px; /* 画像の横幅に合わせて記述 */
+   height: 290px; /* 画像の高さに合わせて記述 */
+}
+#slideshow img {
+   position: absolute;
+   top: 0;
+   left:0;
+   z-index: 8;
+   opacity: 0.0;
+}
+#slideshow img.active {
+   z-index: 10;
+   opacity: 1.0;
+}
+#slideshow img.last-active {
+   z-index: 9;
+}
+
+
+
+
+address{
+	  font-size:80%;
+	  font-style:normal;
+	  text-align:center;
+	  padding-top:5px;
+}
+
+address{
+      background-color:#666666;
+      color:#ffffff;
+          width:852px;
+	  padding-bottom:10px;
+	  border:none;
+	  }
+address a{
+      color:#ff9999;
+	  }
+
+　html {
+　　overflow-y: scroll;
+　}

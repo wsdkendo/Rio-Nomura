@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<title>早稲田大学剣道同好会</title>
+<meta name="description" content="早稲田大学公認の剣道サークルです！活動日：火・木・土　新宿スポーツセンター４階にて" />
+<meta name="keywords" content="早稲田　剣道　同好会　サークル" />
+
+<link href="index.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+function slideSwitch() {
+   var $active = $('#slideshow img.active');
+
+   if ( $active.length == 0 ) $active = $('#slideshow img:last');
+
+   var $next =  $active.next().length ? $active.next()
+      : $('#slideshow img:first');
+
+   $active.addClass('last-active');
+
+   $next.css({opacity: 0.0})
+      .addClass('active')
+      .animate({opacity: 1.0}, 1000, function() {
+           $active.removeClass('active last-active');
+      });
+}
+
+
+$(function() {
+   setInterval( "slideSwitch()", 2500 );
+});
+
+</script>
+</head>
+
+
+
+<body>
+<div id="contents">
+<div id="header">
+<h1>
+<center><a href="index.html"><font color="black" size="6em" face="麗流隷書">早稲田大学剣道同好会</a></font></center>
+</h1>
+
+<h2>
+<center><a href="index.html"><font color="black" size="3em" face="麗流隷書">ようこそ！ここは早稲田大学公認の剣道サークル、剣道同好会のホームページです！</a></font></center>
+<br>
+<center><Form><Input type="button" value="お気に入りに追加する" onClick="javascript:window.external.AddFavorite('http://サイトのURL','早稲田大学剣道同好会')"></Form></center>
+<br>
+<br>
+
+
+</h2>
+　　</div>
+
+
+　　<div id="navbar">
+<ul>
+<li><a href="index.html" target="_top">ＨＯＭＥ</a></li>
+<li><a href="practice.html" target="_top">練習日・場所など</a></li>
+<li><a href="about.html" target="_top">サークル紹介</a></li>
+<li><a href="photo.html" target="_top">写真館</a></li>
+<li><a href="link.html" target="_top">リンク</a></li>
+<li><a href="access.html" target="_top">連絡先など</a></li>
+
+</ul>
+　　</div>
+
+<p id="slideshow">
+<img src="image/home.jpg" alt="画像1" width="852" height="290" class="active">
+<img src="image/home2.JPG" alt="画像2" width="852" height="290">
+<img src="image/indexback.jpg" alt="画像3" width="852" height="290">
+<img src="image/indexback2.jpg" alt="画像4" width="852" height="290">
+
+</p>
+
+　　<div id="main">
+<table border="0">
+<tbody>
+<tr>
+<td valign="top" width="610"><img src="image/news.png" alt="お知らせ" width="600" height="40" border="0"></td>
+</tr>
+<tr>
+<td valign="top" height="150">
+<li>[2018/3/9]　 写真館2018年度【春合宿】を更新いたしました</li><br>
+<li>[2018/3/9]　 写真館2018年度【スキー合宿】を更新いたしました</li><br>
+<li>[2017/12/6]　 写真館2018年度【追いコン】を更新いたしました</li><br>
+<li>[2017/12/29]　幹部紹介を更新いたしました</li><br>
+
+<br>
+<tr>
+<td valign="top"><img src="image/info.png" alt="イベント・試合など" width="600" height="40" border="0"></td>
+</tr>
+<tr>
+<td valign="top" height="150">
+<li>[2017/1/4]　追いコン</li><br>
+<li>[2017/12/3]　後期納会</li><br>
+<li>[2017/11/26]　関東親善大会</li><br>
+<br>
+
+
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+　　</div>
+
+
+　　<div id="side">
+
+
+<ul><br>
+<li><a href="index.html" target="_top">HOME</a></li>
+<li><a href="kanbu.html" target="_top">幹部紹介</a></li>
+<li><a href="photo.html" target="_top">写真館</a></li>
+<li><a href="result.html" target="_top">試合結果</a></li>
+<li><a href="shinkan.html" target="_top">新歓情報</a></li>
+</ul>
+
+<br />
+　　</div>
+
+
+　　<address>Copy Right(C)2014　<a href="index.html">Waseda Univ. Kendo dokokai </a> Ａll rights reserved.</address>
+
+</div>
+
+
+</body>
+</html>
