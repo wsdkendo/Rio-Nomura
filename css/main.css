@@ -2,7 +2,7 @@
 /* レイアウト
 ------------------------------------------------------------ */
 	
-@charset "UTF-8";
+<cseignore>charset="UTF-8"</cseignore>
 
 html{
 	scroll-behavior: smooth;
