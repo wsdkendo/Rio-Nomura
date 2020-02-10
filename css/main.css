@@ -1,6 +1,9 @@
 
 /* レイアウト
 ------------------------------------------------------------ */
+	
+<cseignore>charset="UTF-8"</cseignore>
+
 html{
 	scroll-behavior: smooth;
 }
