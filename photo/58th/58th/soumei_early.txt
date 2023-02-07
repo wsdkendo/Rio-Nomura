@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+	<title>早稲田大学剣道同好会</title>
+	<meta name="description" content="早稲田大学公認の剣道サークルです！活動日：火・木・土　新宿スポーツセンター４階にて" />
+	<meta name="keywords" content="早稲田　剣道　同好会　サークル" />
+	<link href="../../css/main.css" rel="stylesheet" type="text/css" />
+	<link href="../../css/reset.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="contents">
+		<div id="header">
+				<a name="top"></a>
+				<h1><a href="../../index.html"><img src="../../img/spacer.gif" alt="早稲田大学剣道同好会"></a></h1>	
+			</div>
+			<div id="navi">
+				<ul class="main-navi">
+ 				 	<li><a href="../../about.html">サークル紹介</a></li>
+ 				 	<li><a href="../../member.html">幹部紹介</a></li>
+ 				 	<li><a href="../../result.html">試合結果</a></li>
+ 				 	<li><a href="../../photo.html">写真館</a></li>
+ 				 	<li><a href="../../practice.html">練習日・場所</a></li>
+ 				 	<li><a href="../../newcomer.html">新歓情報</a></li>
+ 				 </ul>
+			</div>
+			<div id="content">
+			<div id="link">
+				<h1>写真館【早明戦2021】</h1>
+				<div class="linkbox">
+					<div class="sentencebox">2021年11月21日に早明戦が行われました。<br>今回はその様子をお届けしていきたいと思います。<br>（双方の大学から許可を得て試合を行っております。）</div>
+					<div class="photobox"><img src="img/soumei_early/01.jpg"></div>
+					<div class="sentencebox">朝早くの集合です<br>この3人は集合時間丁度に到着</div>
+					<div class="photobox"><img src="img/soumei_early/02.jpg"></div>
+					<div class="sentencebox">ネクタイは着けない主義の男</div>
+					<div class="photobox"><img src="img/soumei_early/03.jpg"></div>
+					<div class="sentencebox">会場に着いたら、協力して会場設営です</div>
+					<div class="photobox"><img src="img/soumei_early/04.jpg"></div>
+					<div class="sentencebox">今日もいい笑顔の白石</div>
+					<div class="photobox"><img src="img/soumei_early/05.jpg"></div>
+					<div class="sentencebox">川原＆浦&#9829;<br>って遊ばないでください</div>
+					<div class="photobox"><img src="img/soumei_early/06.jpg"></div>
+					<div class="sentencebox">57期の先輩方にもお越し頂きました！<BR>お手伝いありがとうございます！</div>
+					<div class="photobox"><img src="img/soumei_early/07.jpg"></div>
+					<div class="sentencebox">菅谷はシールでデコレーション</div>
+					<div class="photobox"><img src="img/soumei_early/08.jpg"></div>
+					<div class="sentencebox">そんな男の選手宣誓</div>
+					<div class="photobox"><img src="img/soumei_early/09.jpg"></div>
+					<div class="photobox"><img src="img/soumei_early/10.jpg"></div>
+					<div class="photobox"><img src="img/soumei_early/11.jpg"></div>
+					<div class="photobox"><img src="img/soumei_early/12.jpg"></div>
+					<div class="sentencebox">いよいよ試合開始です<br>男子3軍戦と女子2軍戦は同時に行われました！</div>
+					<div class="photobox"><img src="img/soumei_early/13.jpg"></div>
+					<div class="photobox"><img src="img/soumei_early/14.jpg"></div>
+					<div class="photobox"><img src="img/soumei_early/15.jpg"></div>
+					<div class="sentencebox">続きまして男子2軍戦です！</div>
+					<div class="photobox"><img src="img/soumei_early/16.jpg"></div>
+                                        <div class="sentencebox">お昼になったので、ひとまず昼休憩です！<br>一女は3人仲良くお昼ご飯です。</div>
+					<div class="photobox"><img src="img/soumei_early/17.jpg"></div>
+                                        <div class="sentencebox">こちらは四女3人。お元気そうでなによりです。</div>
+					<div class="photobox"><img src="img/soumei_early/18.jpg"></div>
+　　　　　　　　　　　　　　　　　　　　<div class="sentencebox">三女は仲良く記念写真<br>しれっと写りこむカメラ目線の青木先輩。さすがです</div>
+					<div class="photobox"><img src="img/soumei_early/19.jpg"></div>
+					<div class="sentencebox">四男大集合。大倉先輩...生きてますか？</div>
+					<div class="photobox"><img src="img/soumei_early/20.jpg"></div>
+					<div class="sentencebox">お昼休憩も終わり、女子1軍戦が始まりました。
+					<div class="photobox"><img src="img/soumei_early/21.jpg"></div>
+					<div class="photobox"><img src="img/soumei_early/22.jpg"></div>
+					<div class="sentencebox">試合の様子です。女子は見事勝利です！<br>いよいよ男子1軍戦が始まります。</div>
+					<div class="photobox"><img src="img/soumei_early/23.jpg"></div>
+					<div class="sentencebox">試合に向けてイメトレを行う男</div>
+					<div class="photobox"><img src="img/soumei_early/24.jpg"></div>
+                                	<div class="sentencebox">この眼光、ただ者ではない...</div>
+					<div class="photobox"><img src="img/soumei_early/25.jpg"></div>
+					<div class="photobox"><img src="img/soumei_early/26.jpg"></div>
+					<div class="photobox"><img src="img/soumei_early/27.jpg"></div>
+　　　　　　　　　　　　　　　　　　　　<div class="sentencebox">男子1軍戦の様子です。<br>負けてはしまいましたが、白熱した試合をありがとう！<br></div>
+					<div class="photobox"><img src="img/soumei_early/28.jpg"></div>
+                                        <div class="sentencebox">試合後の片付け＆わちゃわちゃタイム<br>１男たちはゴミを傍らに記念写真</div>
+					<div class="photobox"><img src="img/soumei_early/29.jpg"></div>
+					<div class="sentencebox">頭を抱える者たち</div>
+					<div class="photobox"><img src="img/soumei_early/30.jpg"></div>
+					<div class="sentencebox">目が恐いよ...あつろう...</div>
+					<div class="photobox"><img src="img/soumei_early/31.jpg"></div>
+					<div class="sentencebox">試合の締めとして、閉会式です。</div>
+					<div class="photobox"><img src="img/soumei_early/32.jpg"></div>
+					<div class="sentencebox">一発芸は1年生の神（じん）君です。<br>一発芸というより滑らない話だったけど、盛り上がったのでＯＫです！</div>
+					<div class="photobox"><img src="img/soumei_early/33.jpg"></div>
+					<div class="sentencebox">最後は記念写真です！<br>まずは1年生！</div>
+					<div class="photobox"><img src="img/soumei_early/34.jpg"></div>
+					<div class="sentencebox">2年生！</div>
+					<div class="photobox"><img src="img/soumei_early/35.jpg"></div>
+					<div class="sentencebox">3年生！</div>
+					<div class="photobox"><img src="img/soumei_early/36.jpg"></div>
+					<div class="sentencebox">最後は全員で！パシャリ！</div>
+
+
+					<div class="sentencebox">これで後期早明戦は終了です！お疲れさまでした！<br>今年一番の人数が参加して下さり、大いに盛り上がる試合となりました！<br>次は58期ラストの関東親善です。気合入れて行きましょう！</div>
+
+					<div class="sentencebox">(写真館へのコメントは全て管理人がしております。)</div>
+				</div>	
+			</div>
+			<div id="footer">Copy Right(C)2018 <a href="../../index.html">Waseda Univ. Kendo dokokai </a> Ａll rights reserved.</div>
+			</div>
+		</div>
+	</div>
+	
+	
+
+
+</body>
+</html>
